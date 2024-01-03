@@ -1,0 +1,19 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+from collections import counter
+import pickle
+import string
+string.punctuation
+wordcloud
+xgboost
+streamlit
+stopwords
+punkt
+smtplib
+googletrans
+translate
+langdetect
+sklearn
